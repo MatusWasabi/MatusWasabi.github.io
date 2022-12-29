@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.778eeed7.css",
-    "main.js": "/home/static/js/main.db8d3243.js",
-    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "static/media/Matus - Copy.jpg": "/home/static/media/Matus - Copy.7d69db08564c167a3466.jpg",
-    "static/media/Unity and Unreal logo.png": "/home/static/media/Unity and Unreal logo.247012329c677f58edaa.png",
-    "index.html": "/home/index.html",
-    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
-    "main.db8d3243.js.map": "/home/static/js/main.db8d3243.js.map",
-    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.efee1c91.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/Matus - Copy.jpg": "/static/media/Matus - Copy.7d69db08564c167a3466.jpg",
+    "static/media/Unity and Unreal logo.png": "/static/media/Unity and Unreal logo.247012329c677f58edaa.png",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.efee1c91.js.map": "/static/js/main.efee1c91.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.db8d3243.js"
+    "static/js/main.efee1c91.js"
   ]
 }
